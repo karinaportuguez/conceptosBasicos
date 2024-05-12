@@ -27,6 +27,6 @@ if (grade >= 60) {
   console.log(`The students failed class ❌\n `);
 }
 
-console.log(`\n\nFin del programa...\n`);
+console.log(`\n\nEnd of program...\n`);
 
 //If else anidado no se debe hacer
